@@ -1,8 +1,8 @@
 import React from 'react';
-import EventPractice from './EventPractice';
+import ValidationSample from './EventPractice';
 
 const App = () => {
-  return <EventPractice />;
+  return <ValidationSample />;
 };
 
 export default App;

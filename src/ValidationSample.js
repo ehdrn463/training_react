@@ -21,7 +21,7 @@ class ValidationSample extends Component {
     });
   };
 
-  redner() {
+  render() {
     return (
       <div>
         <input

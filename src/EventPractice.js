@@ -47,7 +47,7 @@ const EventPractice = () => {
         onChange={onChange}
         onKeyPress={onKeyPress}
       />
-      <button onclick={onClick}>확인</button>
+      <button onClick={onClick}>확인</button>
     </div>
   );
 };
